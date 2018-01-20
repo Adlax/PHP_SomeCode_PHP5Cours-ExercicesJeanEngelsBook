@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<biblio>
+  <ouvrage>
+    <livre editeur="FAYARD" prix="20">
+      <titre> Honte </titre>
+      <auteur> Ziegler </auteur>
+      <date> 2005 </date>
+    </livre>
+    <livre editeur="HACHETTE" prix="30">
+      <titre> HAINE </titre>
+      <auteur> Stephene Caca </auteur>
+      <date> 2008 </date>
+    </livre>
+    <livre editeur="BINOUZE" prix="50">
+      <titre> Nuit d'ivresse </titre>
+      <auteur> Picollo </auteur>
+      <date> 2002 </date>
+    </livre>
+  </ouvrage>
+  <musique>
+    <disque editeur="EMI" prix="30">
+      <titre> Mozarto! </titre>
+      <auteur> Mozartiti </auteur>
+      <date> 1808 </date>
+    </disque>
+    <disque editeur="FENDT" prix="30">
+      <titre> Greenthumb </titre>
+      <auteur> Cypresse </auteur>
+      <date> 2005 </date>
+    </disque>
+  </musique>
+</biblio>

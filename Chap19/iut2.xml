@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<iut>
+  <etudiant id="1" nom="Mortimer">
+    <uv>
+      <nom> PHP5 </nom>
+      <duree> 4 semaines </duree>
+      <note> 18 </note>
+    </uv>
+    <uv>
+      <nom> HTML5 </nom>
+      <duree> 3 semaines </duree>
+      <note> 20 </note>
+    </uv>
+  </etudiant>
+  <etudiant id="2" nom="Blake">
+    <uv>
+      <nom> HTML5 </nom>
+      <duree> 3 semaines </duree>
+      <note> 18 </note>
+    </uv>
+    <uv>
+      <nom> MySQL </nom>
+      <duree> 5 semaines </duree>
+      <note> 20 </note>
+    </uv>
+  </etudiant>
+</iut>

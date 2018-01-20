@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<biblio>
+  <livre>
+    <titre> L'empire de la honte </titre>
+    <auteur> Jean Ziegler </auteur>
+    <date> 2005 </date>
+  </livre>
+  <livre>
+    <titre> Ritou de la faime </titre>
+    <auteur> Le Clezio </auteur>
+    <date> 2008 </date>
+  </livre>
+  <livre>
+    <titre> Singe </titre>
+    <auteur> Rahimi </auteur>
+    <date> 2008 </date>
+  </livre>
+</biblio>

@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS "personnes";
+CREATE TABLE "personnes" ("id_pers" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "nom" VARCHAR, "prenom" VARCHAR, "depart" INTEGER, "mail" VARCHAR);
+INSERT INTO "personnes" VALUES(1,'Podesta','John',56,'podesta@fuck.us');
+INSERT INTO "personnes" VALUES(2,'Asterix','John',78,'asterix@fuck.fr');
+DROP TABLE IF EXISTS "pratiques";
+CREATE TABLE "pratiques" ("id_pers" INTEGER NOT NULL , "id_sport" INTEGER NOT NULL , "niveau" INTEGER, PRIMARY KEY ("id_pers", "id_sport"));
+INSERT INTO "pratiques" VALUES(1,2,2);
+INSERT INTO "pratiques" VALUES(1,3,1);
+INSERT INTO "pratiques" VALUES(2,1,3);
+DROP TABLE IF EXISTS "sports";
+CREATE TABLE "sports" ("id_sport" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "design" VARCHAR);
+INSERT INTO "sports" VALUES(1,'caca');
+INSERT INTO "sports" VALUES(2,'pisse');
+INSERT INTO "sports" VALUES(3,'crosse');

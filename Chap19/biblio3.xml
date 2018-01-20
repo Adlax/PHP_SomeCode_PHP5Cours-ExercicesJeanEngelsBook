@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblio>
+  <livre editeur="FAYARD" prix="20.00">
+    <titre>Ze Haine</titre>
+    <auteur>Ziegler</auteur>
+    <date>2008</date>
+  </livre>
+  <livre editeur="GALLIMARD" prix="18.00">
+    <titre>Faime</titre>
+    <auteur>Clezio</auteur>
+    <date>2078</date>
+  </livre>
+<titre><titre>Ze Haine</titre><date>2008</date></titre></biblio>

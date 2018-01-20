@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+ <magasin> 
+<article id="CA300" categorie="photo" > 
+<designation>Canon EOS 3000V zoom 28/80</designation> 
+<prix>329</prix> 
+</article> 
+<article id="CAS07" categorie="divers" > 
+<designation>Cassette DV60 par 5</designation> 
+<prix>27</prix> 
+</article> 
+<article id="CP100" categorie="vidéo" > 
+<designation>Cam&eacute;scope Panasonic SV-AV 100</designation> 
+<prix>1490</prix> 
+</article> 
+<article id="CS330" categorie="vidéo" > 
+<designation>Cam&eacute;scope Sony DCR-PC330</designation> 
+<prix>1629</prix> 
+</article> 
+<article id="DEL30" categorie="informatique" > 
+<designation>Portable Dell X300</designation> 
+<prix>1715</prix> 
+</article> 
+<article id="DVD75" categorie="divers" > 
+<designation>DVD vierge par 3</designation> 
+<prix>18</prix> 
+</article> 
+<article id="HP497" categorie="informatique" > 
+<designation>PC Bureau HP497 &eacute;cran TFT</designation> 
+<prix>1500</prix> 
+</article> 
+<article id="NIK55" categorie="photo" > 
+<designation>Nikon F55+zoom 28/80</designation> 
+<prix>269</prix> 
+</article> 
+<article id="NIK80" categorie="photo" > 
+<designation>Nikon F80</designation> 
+<prix>479</prix> 
+</article> 
+<article id="SAX15" categorie="informatique" > 
+<designation>Portable Samsung X15 XVM</designation> 
+<prix>1999</prix> 
+</article> 
+<article id="SOXMP" categorie="informatique" > 
+<designation>PC Portable Sony Z1-XMP</designation> 
+<prix>2399</prix> 
+</article> 
+<article id="QSDFG" categorie="photo" > 
+<designation>Bridge Samsung 10 Mo</designation> 
+<prix>358</prix> 
+</article> 
+</magasin>
